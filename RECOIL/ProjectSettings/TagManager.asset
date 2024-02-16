@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Box
+  - Pickup
+  - KillPlayer
+  - Locked
   layers:
   - Default
   - TransparentFX
@@ -12,10 +16,10 @@ TagManager:
   - Water
   - UI
   - Button
-  - 
-  - 
-  - 
-  - 
+  - Pickup
+  - Box
+  - Ghost
+  - IgnorePlayer
   - 
   - 
   - 

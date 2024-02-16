@@ -146,12 +146,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 502189453585a634c857348d0359145a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ShotgunClip: {fileID: 8300000, guid: 1782f592bd36325478105c83188dffec, type: 3}
+  FireClip: {fileID: 0}
   audioSource: {fileID: 0}
+  EmptyClip: {fileID: 0}
   playerbody: {fileID: 4966208745008357068}
   playertf: {fileID: 5345543919794130018}
-  transform: {fileID: 7944870727495886319}
   launchpoint: {fileID: 769741947029370453}
+  playerammo: 0
   thrust: 75
 --- !u!1 &6633407579763096056
 GameObject:
@@ -166,9 +167,9 @@ GameObject:
   - component: {fileID: 4204460120665018881}
   - component: {fileID: 7176269257329652950}
   - component: {fileID: 4966208745008357068}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Rockboy
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
