@@ -8,6 +8,8 @@ TagManager:
   - Pickup
   - KillPlayer
   - Locked
+  - Killbox
+  - LevelName
   layers:
   - Default
   - TransparentFX
@@ -20,9 +22,9 @@ TagManager:
   - Box
   - Ghost
   - IgnorePlayer
-  - 
-  - 
-  - 
+  - Exit
+  - PlayerDead
+  - BoxBlocker
   - 
   - 
   - 

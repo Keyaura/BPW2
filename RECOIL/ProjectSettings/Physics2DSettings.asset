@@ -11,8 +11,8 @@ Physics2DSettings:
   m_VelocityThreshold: 1
   m_MaxLinearCorrection: 0.2
   m_MaxAngularCorrection: 8
-  m_MaxTranslationSpeed: 100
-  m_MaxRotationSpeed: 360
+  m_MaxTranslationSpeed: 2.5
+  m_MaxRotationSpeed: 90
   m_BaumgarteScale: 0.2
   m_BaumgarteTimeOfImpactScale: 0.75
   m_TimeToSleep: 0.5
@@ -45,4 +45,4 @@ Physics2DSettings:
   m_ReuseCollisionCallbacks: 1
   m_AutoSyncTransforms: 0
   m_GizmoOptions: 10
-  m_LayerCollisionMatrix: fffdfffffffdfffffffdfffffff9fffffffdfffffff9ffff7ffdffffbffcffff7ffdffff00f8ffffd7fdffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+  m_LayerCollisionMatrix: fffdfffffffdfffffffdffffffc9fffffffdfffffff9ffff7fe5ffffbfccffff7ff5ffff00e8ffffd7fdffffbfeeffff37f5ffff77ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
